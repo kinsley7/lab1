@@ -2,12 +2,14 @@
 Lab 1 for CSCI 2910
 
 step 2:
+<br>
 <img width="469" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/85ed20ed-7f41-4969-805d-49b0aec89fd3">
 <img width="272" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/fd4fb2d7-a893-4146-95dd-0a682311c256">
 
 (it sorts all games by title in ascending order (A to Z) )
 
 step 3, 4, and 7: 
+<br>
 <img width="589" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/50a33df9-e72f-4148-b3b6-aea15089c621">
 <img width="803" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/b8886295-dcd0-4157-b1b2-5380c26417fb">
 
@@ -18,6 +20,7 @@ step 3, 4, and 7:
 
 
 step 5, 6, and 8:
+<br>
 <img width="516" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/b7e3eb27-7e48-47ec-bcdd-f6b383c74444">
 <img width="692" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/0057b75c-739e-4c0e-a0a6-2a100db08f2e">
 
