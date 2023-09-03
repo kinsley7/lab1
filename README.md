@@ -1,4 +1,4 @@
-# lab1 Screenshots!!
+# Lab1 Screenshots!!
 Lab 1 for CSCI 2910
 
 step 2:
