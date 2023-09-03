@@ -1,14 +1,14 @@
 # Lab1 Screenshots!!
 Lab 1 for CSCI 2910
 
-step 2:
+<strong> step 2: </strong>
 <br>
 <img width="469" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/85ed20ed-7f41-4969-805d-49b0aec89fd3">
 <img width="272" alt="image" src="https://github.com/kinsley7/lab1/assets/113950546/fd4fb2d7-a893-4146-95dd-0a682311c256">
 
 (it sorts all games by title in ascending order (A to Z) )
 
-step 3, 4, and 7: 
+<strong> step 3, 4, and 7: </strong>
 <br>
 searching for Nintendo:
 <br>
@@ -23,7 +23,7 @@ searching for falcom:
 (allows user to input a publisher and it outputs a list of games by the publisher as well as the % of games the publisher has out of the total games)
 
 
-step 5, 6, and 8:
+<strong> step 5, 6, and 8: </strong>
 <br>
 searching for platformers:
 <br>
