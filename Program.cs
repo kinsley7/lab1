@@ -1,7 +1,7 @@
 /**       
  *--------------------------------------------------------------------
  * 	   File name: Program
- * 	Project name: CrowdisLab2
+ * 	Project name: CrowdisLab1
  *--------------------------------------------------------------------
  * Author’s name and email:	 kinsley crowdis crowdis@etsu.edu			
  *          Course-Section: CSCI 2910-800
