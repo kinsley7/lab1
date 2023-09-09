@@ -1,4 +1,14 @@
-﻿namespace CrowdisLab1
+/**       
+ *--------------------------------------------------------------------
+ * 	   File name: Program
+ * 	Project name: CrowdisLab2
+ *--------------------------------------------------------------------
+ * Author’s name and email:	 kinsley crowdis crowdis@etsu.edu			
+ *          Course-Section: CSCI 2910-800
+ *           Creation Date:	09/01/2023
+ * -------------------------------------------------------------------
+ */
+namespace CrowdisLab1
 {
     internal class Program
     {
